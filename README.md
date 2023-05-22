@@ -1,10 +1,11 @@
-# Одностраничный сайт "Научиться учиться"
+# How to Learn
 
-Проект, созданный в рамках обучения веб-разработке на платформе Яндекс Практикум.
-Представляет собой одностраничный сайт, посвященный методам и принципам эффективного обучения.
+"How to Learn" is a personal project that aims to provide tips, strategies, and resources for effective learning. It offers guidance on different learning techniques, study habits, and tools to help individuals enhance their learning experience and achieve their goals.
 
-## Технологии, используемые при создании сайта: HTML и CSS
+The project is designed as a landing page consisting of multiple sections. Various approaches to element positioning and alignment have been implemented in the project, including Flexbox and Grid Layout. Animation of certain page elements has been created using CSS.
 
-## Планы по доработке проекта:
-1. Подключить другие шрифты
-2. Проверить код на кроссбраузерность на сайте https://caniuse.com/ и дописать вендорные префиксы
+## Technologies Used
+- HTML
+- CSS
+- Semantic layout
+- Block-Element-Modifier principle of dividing the interface into independent blocks
